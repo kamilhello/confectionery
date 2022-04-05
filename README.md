@@ -2,7 +2,7 @@
 Confectionery is app which support suppliers during taking orders for baker. It allow to collect client's orders and generate delivery documents.
 
 ## Technologies stack
-App was built in Laravel 8 and Vue 3 frameworks. In project was used laravel's official packages:
+App was built in Laravel 8 with upgrade to 9 and Vue 3 frameworks. In project was used laravel's official packages:
 - Sanctum
 - Fortify
 
