@@ -46,4 +46,4 @@ To stop docker container use:
 - sail down
 
 ## Contact
-kamil.mymail@protonmail.com
+kamildeveloper@protonmail.com
