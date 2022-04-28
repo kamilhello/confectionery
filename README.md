@@ -13,7 +13,11 @@ Other technologies:
 
 ## Live version
 
-Available soon.
+Actual link expire on 2 May 2022 at 10 a.m.
+
+[Link to LIVE VERSION](https://cukiernia.frb.io)
+
+Next link will be available on 2 May 2022.
 
 ## Installation
 For locally deploy run:
