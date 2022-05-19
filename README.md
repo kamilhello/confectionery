@@ -13,9 +13,9 @@ Other technologies:
 
 ## Live version
 
-Actual link expire on 6 May 2022 at 10 p.m.
+Actual link expire on 21 May 2022 at 10 p.m.
 
-[Link to LIVE VERSION](https://confectionery.frb.io)
+[Link to LIVE VERSION](https://cukiernia.frb.io)
 
 ## Installation
 For locally deploy run:
