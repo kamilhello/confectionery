@@ -13,9 +13,7 @@ Other technologies:
 
 ## Live version
 
-Actual link
-
-[Link to LIVE VERSION](https://confectionery.frb.io)
+Available soon.
 
 ## Installation
 For locally deploy run:
