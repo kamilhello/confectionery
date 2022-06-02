@@ -13,7 +13,9 @@ Other technologies:
 
 ## Live version
 
-Available soon.
+[Link to live version](https://cukiernia.frb.io)
+
+Link will expire on 6 June at 11:20 a.m.
 
 ## Installation
 For locally deploy run:
